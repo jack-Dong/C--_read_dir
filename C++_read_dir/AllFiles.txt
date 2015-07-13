@@ -1,0 +1,5 @@
+4
+C:\\Users\董师周\Desktop\testpic\color.jpg
+C:\\Users\董师周\Desktop\testpic\pic.jpg
+C:\\Users\董师周\Desktop\testpic\road.jpg
+C:\\Users\董师周\Desktop\testpic\test\color.jpg
